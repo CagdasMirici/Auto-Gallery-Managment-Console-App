@@ -1,0 +1,13 @@
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G007\OtoGaleri_G007\obj\Debug\netcoreapp3.1\OtoGaleri_G007.csprojAssemblyReference.cache
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G007\OtoGaleri_G007\obj\Debug\netcoreapp3.1\OtoGaleri_G007.AssemblyInfoInputs.cache
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G007\OtoGaleri_G007\obj\Debug\netcoreapp3.1\OtoGaleri_G007.AssemblyInfo.cs
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G007\OtoGaleri_G007\obj\Debug\netcoreapp3.1\OtoGaleri_G007.csproj.CoreCompileInputs.cache
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G007\OtoGaleri_G007\obj\Debug\netcoreapp3.1\OtoGaleri_G007.genruntimeconfig.cache
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G007\OtoGaleri_G007\bin\Debug\netcoreapp3.1\OtoGaleri.exe
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G007\OtoGaleri_G007\bin\Debug\netcoreapp3.1\OtoGaleri.deps.json
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G007\OtoGaleri_G007\bin\Debug\netcoreapp3.1\OtoGaleri.runtimeconfig.json
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G007\OtoGaleri_G007\bin\Debug\netcoreapp3.1\OtoGaleri.runtimeconfig.dev.json
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G007\OtoGaleri_G007\bin\Debug\netcoreapp3.1\OtoGaleri.dll
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G007\OtoGaleri_G007\bin\Debug\netcoreapp3.1\OtoGaleri.pdb
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G007\OtoGaleri_G007\obj\Debug\netcoreapp3.1\OtoGaleri.dll
+C:\Users\Siliconmade Academy\source\repos\OtoGaleri_G007\OtoGaleri_G007\obj\Debug\netcoreapp3.1\OtoGaleri.pdb
